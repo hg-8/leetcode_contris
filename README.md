@@ -19,5 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/hg-8/leetcode_contris/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hg-8/leetcode_contris/tree/master/0160-intersection-of-two-linked-lists) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/hg-8/leetcode_contris/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/hg-8/leetcode_contris/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
