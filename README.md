@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/hg-8/leetcode_contris/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hg-8/leetcode_contris/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/hg-8/leetcode_contris/tree/master/0283-move-zeroes) |
 ## Array
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hg-8/leetcode_contris/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/hg-8/leetcode_contris/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/hg-8/leetcode_contris/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
