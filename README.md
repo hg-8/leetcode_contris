@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/hg-8/leetcode_contris/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/hg-8/leetcode_contris/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hg-8/leetcode_contris/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
@@ -15,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/hg-8/leetcode_contris/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hg-8/leetcode_contris/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/hg-8/leetcode_contris/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hg-8/leetcode_contris/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/hg-8/leetcode_contris/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hg-8/leetcode_contris/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/hg-8/leetcode_contris/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hg-8/leetcode_contris/tree/master/0283-move-zeroes) |
