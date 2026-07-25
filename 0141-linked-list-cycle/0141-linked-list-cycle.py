@@ -6,14 +6,17 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        if head is None or head.next is None:
-            return False
-        first=head
-        second=head.next
-        while head is not None and second is not None and second.next is not None:
-            if first == second :
-                return True
-            first = first.next
-            second = second.next.next
-        return False 
+        slow = head
+        fast = head
         
+        # Traverse as long as the fast pointer and its next node exist
+        while fast is not None and fast.next is not None:
+            slow = slow.next          # 1 step
+            fast = fast.next.next     # 2 steps
+            
+            # If slow and fast pointers meet at the same node, a cycle exists
+            if slow == fast:
+                return True
+                
+        # If fast reaches None, there is no cycle
+        return False
