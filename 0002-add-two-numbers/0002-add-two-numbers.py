@@ -1,20 +1,39 @@
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        dummy = ListNode(0)  # 1. Fake/placeholder node
-        curr = dummy         # 2. Pointer starts at dummy
+        # Create a dummy node to simplify linked list construction and avoid edge case handling for head node
+        dummy = ListNode(0)
+        
+        # Pointer 'curr' keeps track of the current tail node in the result linked list
+        curr = dummy
+        
+        # Variable to keep track of digit addition overflow (carry-over to next place value)
         carry = 0
         
-        while l1 or l2 or carry:  # 3. Loop handles everything!
-            val1 = l1.val if l1 else 0  # 4. Safely get val1
-            val2 = l2.val if l2 else 0  # 5. Safely get val2
+        # Continue processing as long as there are nodes remaining in l1 or l2, or a remaining carry to append
+        while l1 or l2 or carry:
+            # Safely extract digit value from l1 if node exists, otherwise use 0 for missing digits
+            val1 = l1.val if l1 else 0
             
-            total = val1 + val2 + carry  # 6. Calculate total sum
-            carry = total // 10          # 7. Get new carry
+            # Safely extract digit value from l2 if node exists, otherwise use 0 for missing digits
+            val2 = l2.val if l2 else 0
             
-            curr.next = ListNode(total % 10)  # 8. Create node directly
-            curr = curr.next                  # 9. Move pointer
+            # Calculate sum of current digits plus carry from the previous lower place value
+            total = val1 + val2 + carry
             
-            if l1: l1 = l1.next  # 10. Advance l1 if it exists
-            if l2: l2 = l2.next  # 11. Advance l2 if it exists
+            # Compute new carry digit for next higher place value using integer division
+            carry = total // 10
             
-        return dummy.next  # 12. Return actual head!
+            # Attach a new node containing the single digit remainder (total % 10) to the result list
+            curr.next = ListNode(total % 10)
+            
+            # Move the pointer to the newly created node
+            curr = curr.next
+            
+            # Advance l1 pointer to next node if l1 is not empty
+            if l1: l1 = l1.next
+            
+            # Advance l2 pointer to next node if l2 is not empty
+            if l2: l2 = l2.next
+            
+        # Return dummy.next which points to the actual head of the resulting linked list
+        return dummy.next

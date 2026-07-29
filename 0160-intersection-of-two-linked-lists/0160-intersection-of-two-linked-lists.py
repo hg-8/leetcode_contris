@@ -6,31 +6,42 @@
 
 class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
-        n=self.findlength(headA)
-        m=self.findlength(headB)
-        fp=headA
-        sp=headB
-        if (m <= n):
-            for i in range(n-m):
-                fp=fp.next
+        # Compute length of list A
+        n = self.findlength(headA)
+        
+        # Compute length of list B
+        m = self.findlength(headB)
+        
+        # Set pointer fp to head of list A
+        fp = headA
+        
+        # Set pointer sp to head of list B
+        sp = headB
+        
+        # Equalize starting positions by advancing pointer of longer list by length difference
+        if m <= n:
+            for i in range(n - m):
+                fp = fp.next  # Advance fp if list A is longer or equal
         else:
-            for i in range(m-n):
-                sp=sp.next
+            for i in range(m - n):
+                sp = sp.next  # Advance sp if list B is longer
+                
+        # Traverse both lists synchronously node by node
         while fp is not None:
-            if(fp==sp):
+            # If pointers match, intersection node is found
+            if fp == sp:
                 return fp
-            fp=fp.next
-            sp=sp.next
+            fp = fp.next
+            sp = sp.next
+            
+        # If traversal reaches end without match, lists do not intersect
         return None
     
-    def findlength(self,head):
-        length=0
-        curr=head
+    # Helper function to count the number of nodes in a linked list
+    def findlength(self, head):
+        length = 0
+        curr = head
         while curr.next is not None:
-            curr=curr.next
-            length+=1
+            curr = curr.next
+            length += 1
         return length
-        
-
-
-        
