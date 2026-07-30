@@ -1,5 +1,5 @@
 class Solution:
-    def productExceptSelf(self, nums: List[int]) -> List[List[int]]:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
         # Get total length of input array
         n = len(nums)
         

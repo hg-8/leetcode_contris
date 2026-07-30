@@ -34,4 +34,4 @@ class Solution:
                 pairs.append(pair)
                 small+=1 
         return pairs
-
+    
