@@ -43,16 +43,26 @@ class Solution:
             # Skip duplicate fixed elements
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
-            if (large+1<=end) and (nums[large+1] == nums[large]):
-                large-=1
-                continue
-            if (nums[small]+nums[large]) < target:
-                small+=1
-            elif (nums[small]+nums[large]) > target:
-                large-=1
-            else:
-                pair=[nums[small],nums[large]]
-                pairs.append(pair)
-                small+=1 
-        return pairs
+
+            j, k = i + 1, n - 1
+
+            while j < k:
+                total = nums[i] + nums[j] + nums[k]
+
+                if total == 0:
+                    res.append([nums[i], nums[j], nums[k]])
+                    j += 1
+                    k -= 1
+
+                    # Skip duplicate second elements
+                    while j < k and nums[j] == nums[j - 1]:
+                        j += 1
+
+                elif total < 0:
+                    j += 1
+                else:
+                    k -= 1
+
+        return res
+
 
