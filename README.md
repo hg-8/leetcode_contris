@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hg-8/leetcode_contris/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/hg-8/leetcode_contris/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/hg-8/leetcode_contris/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/hg-8/leetcode_contris/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hg-8/leetcode_contris/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hg-8/leetcode_contris/tree/master/0160-intersection-of-two-linked-lists) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hg-8/leetcode_contris/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hg-8/leetcode_contris/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/hg-8/leetcode_contris/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/hg-8/leetcode_contris/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/hg-8/leetcode_contris/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/hg-8/leetcode_contris/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hg-8/leetcode_contris/tree/master/0189-rotate-array) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/hg-8/leetcode_contris/tree/master/0049-group-anagrams) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/hg-8/leetcode_contris/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
