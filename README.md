@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hg-8/leetcode_contris/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hg-8/leetcode_contris/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/hg-8/leetcode_contris/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/hg-8/leetcode_contris/tree/master/0141-linked-list-cycle) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hg-8/leetcode_contris/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/hg-8/leetcode_contris/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/hg-8/leetcode_contris/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hg-8/leetcode_contris/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/hg-8/leetcode_contris/tree/master/0075-sort-colors) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hg-8/leetcode_contris/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/hg-8/leetcode_contris/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/hg-8/leetcode_contris/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/hg-8/leetcode_contris/tree/master/0169-majority-element) |
