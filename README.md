@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/hg-8/leetcode_contris/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/hg-8/leetcode_contris/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hg-8/leetcode_contris/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/hg-8/leetcode_contris/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/hg-8/leetcode_contris/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/hg-8/leetcode_contris/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hg-8/leetcode_contris/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/hg-8/leetcode_contris/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/hg-8/leetcode_contris/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/hg-8/leetcode_contris/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/hg-8/leetcode_contris/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/hg-8/leetcode_contris/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/hg-8/leetcode_contris/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/hg-8/leetcode_contris/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
