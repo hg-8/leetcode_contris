@@ -2,12 +2,13 @@ class Solution:
         def nextGreaterElements(self, A):
             stack, res = [], [-1] * len(A)
             for i in range((len(A)) * 2):
-                i=i%len(A)
-                while stack and (A[stack[-1]] < A[i]):
+                curr_index=i%len(A)
+                while stack and (A[stack[-1]] < A[curr_index]):
                     temp=stack.pop()
-                    res[temp] = A[i]
+                    res[temp] = A[curr_index]
                     print(temp)
-                stack.append(i)
+                if i<len(A):
+                    stack.append(curr_index)
             print(stack)
             return res
         
