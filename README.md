@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/hg-8/leetcode_contris/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hg-8/leetcode_contris/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/hg-8/leetcode_contris/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/hg-8/leetcode_contris/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/hg-8/leetcode_contris/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hg-8/leetcode_contris/tree/master/0142-linked-list-cycle-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hg-8/leetcode_contris/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/hg-8/leetcode_contris/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/hg-8/leetcode_contris/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/hg-8/leetcode_contris/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/hg-8/leetcode_contris/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hg-8/leetcode_contris/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/hg-8/leetcode_contris/tree/master/0056-merge-intervals) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hg-8/leetcode_contris/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hg-8/leetcode_contris/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/hg-8/leetcode_contris/tree/master/0152-maximum-product-subarray) |
 ## Math
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hg-8/leetcode_contris/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/hg-8/leetcode_contris/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hg-8/leetcode_contris/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/hg-8/leetcode_contris/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/hg-8/leetcode_contris/tree/master/0234-palindrome-linked-list) |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hg-8/leetcode_contris/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/hg-8/leetcode_contris/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hg-8/leetcode_contris/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
