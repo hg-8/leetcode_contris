@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/hg-8/leetcode_contris/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hg-8/leetcode_contris/tree/master/0503-next-greater-element-ii) |
 | [0875-koko-eating-bananas](https://github.com/hg-8/leetcode_contris/tree/master/0875-koko-eating-bananas) |
+| [1552-magnetic-force-between-two-balls](https://github.com/hg-8/leetcode_contris/tree/master/1552-magnetic-force-between-two-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hg-8/leetcode_contris/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/hg-8/leetcode_contris/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hg-8/leetcode_contris/tree/master/0217-contains-duplicate) |
+| [1552-magnetic-force-between-two-balls](https://github.com/hg-8/leetcode_contris/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hg-8/leetcode_contris/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hg-8/leetcode_contris/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/hg-8/leetcode_contris/tree/master/0875-koko-eating-bananas) |
+| [1552-magnetic-force-between-two-balls](https://github.com/hg-8/leetcode_contris/tree/master/1552-magnetic-force-between-two-balls) |
 ## Simulation
 |  |
 | ------- |
