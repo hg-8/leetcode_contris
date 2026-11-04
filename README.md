@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hg-8/leetcode_contris/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/hg-8/leetcode_contris/tree/master/0743-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -198,4 +199,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hg-8/leetcode_contris/tree/master/0054-spiral-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/hg-8/leetcode_contris/tree/master/0743-network-delay-time) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/hg-8/leetcode_contris/tree/master/0743-network-delay-time) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/hg-8/leetcode_contris/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/hg-8/leetcode_contris/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/hg-8/leetcode_contris/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
